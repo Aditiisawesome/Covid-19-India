@@ -1,0 +1,159 @@
+<html>
+    <head>
+        <title>Covid19 Impacts on India</title>
+    </head>
+    <body>
+    <style>
+    ul{
+    list-style: circle;
+}
+ol{
+    list-style:upper-roman;
+}
+img{
+    width:400px;
+}
+#text1{
+    color:crimson;
+    background-color:whitesmoke;
+}
+.trial1{
+    color:crimson;
+    background-color:whitesmoke;
+    padding:5px;
+}
+flexcontainer{
+    background-color:bisque;
+    display:flex;
+    flex-wrap:nonwrap;
+}
+.flexcontainer div{
+    font-size:18px;
+    background-color:ivory;
+    margin:10px;
+    width:100px;
+    line-height:100px;
+    text-align:left;
+}
+h1{
+    color:black;
+}
+h3{
+    background-color:goldenrod;
+    width:;
+}
+body{
+    text-align:center;
+    background-color:burlywood;
+}
+#changecolor{
+    color:ivory;
+}
+p i{
+    color:crimson;
+}
+h5{
+     font-size:25px;
+}
+h6{
+     font-size:25px;
+}
+.trial1:hover{
+    background-color:aliceblue;
+}
+    </style>
+        <h2>Covid19 Impacts on India</h2>
+         <form>
+             Name:
+             <input type="text" name="username">
+             <br>
+             Age:
+             <input type="number" name="age">
+             <br>
+             Email:
+             <input type="date" name=:"date">
+             <br>
+            password:
+             <input type="password" name=:"password">
+            <br>
+            <input type="submit">
+            </form>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/India_COVID-19_cases_density_map.svg">
+         <iframe width="600" height="400" src="https://www.youtube.com/embed/SqKQWK2YCxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+         <br>
+         <br>
+         <iframe src="https://en.wikipedia.org/wiki/COVID-19_pandemic_in_India"width="500" height="400" frameborder-"0"></iframe>
+         <p id="text1"> The COVID-19 pandemic in India is a part of the worldwide pandemic of coronavirus disease 2019, COVID-19 caused by severe acute respiratory syndrome coronavirus 2, SARS-CoV-2.</p>
+         <p> The first cases of COVID-19 in India were reported on 30 January 2020 in three towns of Kerala, among three Indian medical students who had returned from Wuhan, the epicenter of the pandemic.</p>
+         <p class="trial1">India began its vaccination programme on 16 January 2021 with AstraZeneca vaccine Covishield, and the indigenous Covaxin.Later, Sputnik V and the Moderna vaccine was approved for emergency use too. On January 30, 2022, India announced that it administered about 1.7 billion doses of vaccines and more than 720 million people were fully vaccinated.</p>
+         <p class="trail1">The number of new cases had begun to steadily drop by late-May; on 25 May, the country reported 195,994 new cases—its lowest daily increase since 13 April. However, the mortality rate has remained high; by 24 May, India recorded over 300,000 deaths attributed to COVID-19. Around 100,000 deaths had occurred in the last 26 days, and 50,000 in the last 12. In May 2021, WHO declared that two variants first found in India will be referred to as 'Delta' and 'Kappa'. Karnataka announces a COVID-19 Memorial.</p>
+         <p>India announced a mandatory 10-day quarantine on travellers arriving from United Kingdom irrespective of their vaccination status starting 4 October 2021 after United Kingdom also put the same restrictions on travellers from India by not recognizing India's vaccine certificate.On 8 October the United Kingdom opened up the restrictions on travelers from 47 countries and locations including India.</p>
+         <p class="trial1">By March India had just 22,487 cases across the country. With 58.8% population fully vaccinated and 70% having received at least one dose opening up post pandemic has been steady. Buoyed by the success of its vaccination program among senior citizens, adults and teenagers, the vaccination program is now inoculating childen in the 12-15 age group. Further the central government has urged state governments to end all COVID curbs except masks and social distancing. International flights were resumed on 27th March after a gap of two years.</p>
+         <br>
+         <p>Please, listen to this while going through the website.  </p>
+
+    <audio controls>
+        <source src="http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg" type="audio/ogg">
+    </audio>
+    <h1>COVID-19 pandemic in India</h1>
+
+
+    <div class="COVID-19 pandemic in India">
+    <div>Hello,hope you are enjoying the facts shown so far</div>
+        <div>2<div>
+        <div>3<div>
+        <div>4<div>
+        <div>5<div>
+        <div>6<div>
+        </div>
+    </body>
+
+    <h2>This section shares the 2 different sides of India,(North and South) way of curing Covid19.</h2>
+    <h3 id="changecolor"> How is Covid 19 positively going in India.</h3>
+    <ol>
+    <li>The government release says the drug is to be used as adjunct therapy in moderate to severe cases.It also points out that due to its simple makeup, "it can be easily produced and made available in plenty in the country", raising hopes that it can eventually be widely used and ease the current Covid emergency.</li>
+    <li>The drug is expected to save precious lives due to the mechanism of operation of the drug in infected cells. This also reduces the hospital stay of Covid-19 patients.</li>
+    <li>Assist poor workers. Steps to help poor migrant workers include programs offered by the Ministry of Housing and Urban Poverty Alleviation in their 2017 report. These policies include provision of affordable housing, emergency employment schemes, and access to social entitlements and service provisions. </li>
+    </ol>
+    <hr>
+    <h3> How is Covid 19 negatively going in India.</h3>
+<ul>
+    <li>With more than 24 million cases and 270,000 deaths, India is now the epicentre of the global pandemic.</li>
+    <li>Many hospitals have run out of beds or oxygen to provide basic treatment. Many of the country's crematoriums have run out of spaces.</li>
+<li>The country's vaccination drive is also not nearly making the progress needed to ease the current crisis.</li>
+</ul>
+
+<h3>Covid19 data from January,2020-October 31st,2021</h3>
+<table>
+    <tr>
+        <th>Total cases</th>
+        <th>Deaths</th>
+        <th>Recovered</th>
+        <th>People tested</th>
+        <th>Vaccinated</th>
+    </tr>
+
+    <tr>
+        <td>3,42,85,621</td>
+        <td>4,58,470</td>
+        <td>3,36,61,339</td>
+        <td>60,92,01,294</td>
+        <td>54.90</td>
+    </tr>
+</table>
+
+<h4>This is the Covid19 rate's in 2022</h4>
+Now in its third year, the COVID-19 pandemic sees India more prepared – in terms of planning for logistics and emergencies and having a robust vaccination program in place – though the stress to healthcare infrastructure and business disruption is unavoidable. Companies have also drawn out strategies to ensure business continuity during this extended period of COVID-linked disruption. Declining caseloads and steady resumption of normal activities around the country has seen uptick in domestic travel. Meanwhile, regular international scheduled flights should restart March 27, after a gap of two years. 
+
+<br> <br>
+<h5>Stay Safe </h5>
+<h6>This is the Summary of Covid19 threats in India</h6>
+<p> </p>
+<p> <i><b>The first cases of COVID-19 in India,</i> </b> were reported on 30 January 2020 in three towns of Kerala, among three Indian medical students who had returned from Wuhan, the epicenter of the pandemic. Lockdowns were announced in Kerala on 23 March, and in the rest of the country on 25 March. Infection rates started to drop in September. Daily cases peaked mid-September with over 90,000 cases reported per-day, dropping to below 15,000 in January 2021 A second wave beginning in March 2021 was much more devastating than the first, with shortages of vaccines, hospital beds, oxygen cylinders and other medical supplies in parts of the country. By late April, India led the world in new and active cases. On 30 April 2021, it became the first country to report over 400,000 new cases in a 24-hour period.Experts stated that the virus may reach an endemic stage in India rather than completely disappear; in late August 2021, Soumya Swaminathan said India may be in some stage of endemicity where the country learns to live with the virus.
+</body>
+</html>
+
+
+
